@@ -1,3 +1,4 @@
+#hyperskill smart calculator project
 import re
 import enum
 
